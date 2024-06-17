@@ -1,10 +1,10 @@
 body{
-    background-color: burlywood;
+    background-color: white;
 color: rgb(167, 89, 0);
-
+font-family: "Playwrite IS", cursive;
 }
 .cabecalho{
-
+    background-image: linear-gradient(burlywood, white);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -14,8 +14,9 @@ color: rgb(167, 89, 0);
 
 .logo{
 
-    width: 200px;
+    width: 188px;
 }
 .palha{
     width: 500px;
+    
 }
